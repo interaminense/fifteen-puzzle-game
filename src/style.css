@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Concert+One&display=swap');
+
+html, body {
+	margin: 0;
+	overflow: hidden;
+}
+
+html, body, #root, .game {
+	height: 100%;
+}
+
+body {
+	background-color: #444444;
+	font-family: 'Concert One', cursive;
+	color: #FFF;
+	font-size: 22px;
+}
+
+.made-by {
+	position: absolute;
+	bottom: 1rem;
+	right: 1rem;
+	color: rgba(255, 255, 255, .3);
+	text-decoration: none;
+	font-size: 18px;
+}
+
+.made-by:hover {
+	color: rgba(255, 255, 255, 1);
+}
