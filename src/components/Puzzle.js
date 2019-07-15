@@ -82,17 +82,17 @@ const Puzzle = () => {
 			</div>
 
 			<div className='status'>
-				<div>moves: {moves}</div>
+				<div>Moves {moves}</div>
 
 				{finish && (
 					<div className='finish'>
-						<div>finished!</div>
+						<div>Finished. Congratulations!!!</div>
 
 						<button
 							className='button'
 							onClick={() => handleRestart()}
 						>
-							restart
+							Restart
 						</button>
 					</div>
 				)}
