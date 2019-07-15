@@ -86,7 +86,7 @@ const Puzzle = () => {
 
 				{finish && (
 					<div className='finish'>
-						<div>Congratulations!!!</div>
+						<div>Done!</div>
 
 						<button
 							className='button'

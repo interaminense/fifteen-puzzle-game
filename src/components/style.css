@@ -9,8 +9,8 @@
 	display: grid;
 	grid-template-columns: calc(100% / 4) calc(100% / 4) calc(100% / 4) calc(100% / 4);
 	grid-template-rows: calc(100% / 4) calc(100% / 4) calc(100% / 4) calc(100% / 4);
-	width: 400px;
-	height: 400px;
+	width: 350px;
+	height: 350px;
 }
 
 .board .button {
@@ -49,7 +49,7 @@
 }
 
 .status {
-	width: 400px;
+	width: 300px;
 	margin-top: 1rem;
 	display: flex;
 	justify-content: space-between;
