@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fifteen-puzzle-game/static/css/main.60af98a0.chunk.css",
+    "main.js": "/fifteen-puzzle-game/static/js/main.017a445b.chunk.js",
+    "main.js.map": "/fifteen-puzzle-game/static/js/main.017a445b.chunk.js.map",
+    "runtime~main.js": "/fifteen-puzzle-game/static/js/runtime~main.27c4b8cf.js",
+    "runtime~main.js.map": "/fifteen-puzzle-game/static/js/runtime~main.27c4b8cf.js.map",
+    "static/js/2.c2695c00.chunk.js": "/fifteen-puzzle-game/static/js/2.c2695c00.chunk.js",
+    "static/js/2.c2695c00.chunk.js.map": "/fifteen-puzzle-game/static/js/2.c2695c00.chunk.js.map",
+    "index.html": "/fifteen-puzzle-game/index.html",
+    "precache-manifest.72a65a4dd9809bb1f07468c48d433107.js": "/fifteen-puzzle-game/precache-manifest.72a65a4dd9809bb1f07468c48d433107.js",
+    "service-worker.js": "/fifteen-puzzle-game/service-worker.js",
+    "static/css/main.60af98a0.chunk.css.map": "/fifteen-puzzle-game/static/css/main.60af98a0.chunk.css.map"
+  }
+}
