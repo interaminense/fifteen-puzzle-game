@@ -1,0 +1,8 @@
+{
+	"bracketSpacing": false,
+	"endOfLine": "lf",
+	"jsxSingleQuote": true,
+	"singleQuote": true,
+	"tabWidth": 4,
+	"useTabs": true
+}
