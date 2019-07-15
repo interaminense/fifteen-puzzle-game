@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "877b3a99d65767d3d3e688dbccf0d3dc",
+    "revision": "660a1571f70b01c431535371ab2aef17",
     "url": "/fifteen-puzzle-game/index.html"
   },
   {
-    "revision": "292ac4c94860dbbe0fa7",
+    "revision": "9bc6439c7ef6674f2a01",
     "url": "/fifteen-puzzle-game/static/css/main.8fd75758.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fifteen-puzzle-game/static/js/2.c2695c00.chunk.js"
   },
   {
-    "revision": "292ac4c94860dbbe0fa7",
-    "url": "/fifteen-puzzle-game/static/js/main.abe2ce9b.chunk.js"
+    "revision": "9bc6439c7ef6674f2a01",
+    "url": "/fifteen-puzzle-game/static/js/main.c437d610.chunk.js"
   },
   {
     "revision": "b701ca85abd3725094ab",
