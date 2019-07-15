@@ -6,9 +6,10 @@ import {
 	cloneArr,
 	getSides,
 	getEmptyPosition,
-	getColumnBelowPosition
+	getColumnBelowPosition,
+	getColumnAbovePosition
 } from '../utils';
-import {CORRECT_ARR, LEFT_COLUMNS_ARR} from '../constants';
+import {CORRECT_ARR, LEFT_COLUMNS_ARR, RIGHT_COLUMNS_ARR} from '../constants';
 
 const Puzzle = () => {
 	const [board, setBoard] = useState(shuffleArr(cloneArr(CORRECT_ARR)));
@@ -45,7 +46,17 @@ const Puzzle = () => {
 			currentPos
 		);
 
-		if (board[emptyPos] === -1 && board[columnBelow] !== -1) {
+		//search if the next item is in the column above
+		const columnAbove = getColumnAbovePosition(
+			RIGHT_COLUMNS_ARR,
+			currentPos
+		);
+
+		if (
+			board[emptyPos] === -1 &&
+			board[columnBelow] !== -1 &&
+			board[columnAbove] !== -1
+		) {
 			newBoard.splice(emptyPos, 1, item);
 			newBoard.splice(currentPos, 1, -1);
 

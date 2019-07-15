@@ -13,6 +13,9 @@ export const compareArr = (arr1, arr2) => {
 export const getColumnBelowPosition = (arr, i) =>
 	arr.find(pos => pos === i + 1);
 
+export const getColumnAbovePosition = (arr, i) =>
+	arr.find(pos => pos === i - 1);
+
 export const getSides = i => [i - 4, i + 1, i + 4, i - 1];
 
 export const cloneArr = board => board.slice(0);

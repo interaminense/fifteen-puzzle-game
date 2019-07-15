@@ -18,3 +18,5 @@ export const CORRECT_ARR = [
 ];
 
 export const LEFT_COLUMNS_ARR = [0, 4, 8, 12];
+
+export const RIGHT_COLUMNS_ARR = [3, 7, 11, 15];
