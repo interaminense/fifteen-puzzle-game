@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fifteen-puzzle-game/static/css/main.60af98a0.chunk.css",
-    "main.js": "/fifteen-puzzle-game/static/js/main.6f905556.chunk.js",
-    "main.js.map": "/fifteen-puzzle-game/static/js/main.6f905556.chunk.js.map",
+    "main.js": "/fifteen-puzzle-game/static/js/main.f7bf081a.chunk.js",
+    "main.js.map": "/fifteen-puzzle-game/static/js/main.f7bf081a.chunk.js.map",
     "runtime~main.js": "/fifteen-puzzle-game/static/js/runtime~main.27c4b8cf.js",
     "runtime~main.js.map": "/fifteen-puzzle-game/static/js/runtime~main.27c4b8cf.js.map",
     "static/js/2.c2695c00.chunk.js": "/fifteen-puzzle-game/static/js/2.c2695c00.chunk.js",
     "static/js/2.c2695c00.chunk.js.map": "/fifteen-puzzle-game/static/js/2.c2695c00.chunk.js.map",
     "index.html": "/fifteen-puzzle-game/index.html",
-    "precache-manifest.bc5e9f8f998d822042084e187d03df94.js": "/fifteen-puzzle-game/precache-manifest.bc5e9f8f998d822042084e187d03df94.js",
+    "precache-manifest.2840a24ae0a3b3a71b3d24bd31c19352.js": "/fifteen-puzzle-game/precache-manifest.2840a24ae0a3b3a71b3d24bd31c19352.js",
     "service-worker.js": "/fifteen-puzzle-game/service-worker.js",
     "static/css/main.60af98a0.chunk.css.map": "/fifteen-puzzle-game/static/css/main.60af98a0.chunk.css.map"
   }
