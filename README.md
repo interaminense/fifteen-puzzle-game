@@ -3,6 +3,11 @@
 ## Start Gaming
 [https://interaminense.github.io/fifteen-puzzle-game](https://interaminense.github.io/fifteen-puzzle-game)
 
+<div>
+<img width="300" src='public/imgs/screen1.png' />
+<img width="300" src='public/imgs/screen2.png' />
+</div>
+
 ## Stacks
 * React
 * Typescript
