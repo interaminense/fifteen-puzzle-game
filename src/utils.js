@@ -1,19 +1,13 @@
 export const compareArr = (arr1, arr2) => {
-	let areEquals = false;
+	if (arr1.length !== arr2.length) return false;
 
-	arr1.forEach(e1 =>
-		arr2.forEach(e2 => {
-			if (e1.length > 1 && e2.length) {
-				areEquals = compareArr(e1, e2);
-			} else if (e1 !== e2) {
-				areEquals = false;
-			} else {
-				areEquals = true;
-			}
-		})
-	);
+	for (let i = 0; i < arr1.length; i++) {
+		if (arr1[i] !== arr2[i]) {
+			return false;
+		}
+	}
 
-	return areEquals;
+	return true;
 };
 
 export const getColumnBelowPosition = (arr, i) =>
