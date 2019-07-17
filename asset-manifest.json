@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/fifteen-puzzle-game/static/css/main.8fd75758.chunk.css",
-    "main.js": "/fifteen-puzzle-game/static/js/main.c437d610.chunk.js",
-    "main.js.map": "/fifteen-puzzle-game/static/js/main.c437d610.chunk.js.map",
+    "main.css": "/fifteen-puzzle-game/static/css/main.293e61ef.chunk.css",
+    "main.js": "/fifteen-puzzle-game/static/js/main.eb19c4df.chunk.js",
+    "main.js.map": "/fifteen-puzzle-game/static/js/main.eb19c4df.chunk.js.map",
     "runtime~main.js": "/fifteen-puzzle-game/static/js/runtime~main.27c4b8cf.js",
     "runtime~main.js.map": "/fifteen-puzzle-game/static/js/runtime~main.27c4b8cf.js.map",
-    "static/js/2.c2695c00.chunk.js": "/fifteen-puzzle-game/static/js/2.c2695c00.chunk.js",
-    "static/js/2.c2695c00.chunk.js.map": "/fifteen-puzzle-game/static/js/2.c2695c00.chunk.js.map",
+    "static/js/2.db014cf1.chunk.js": "/fifteen-puzzle-game/static/js/2.db014cf1.chunk.js",
+    "static/js/2.db014cf1.chunk.js.map": "/fifteen-puzzle-game/static/js/2.db014cf1.chunk.js.map",
     "index.html": "/fifteen-puzzle-game/index.html",
-    "precache-manifest.fc37c216913a0243751b599c1988fb9c.js": "/fifteen-puzzle-game/precache-manifest.fc37c216913a0243751b599c1988fb9c.js",
+    "precache-manifest.4eb9228644e2a90e4cd7627851e2fd0c.js": "/fifteen-puzzle-game/precache-manifest.4eb9228644e2a90e4cd7627851e2fd0c.js",
     "service-worker.js": "/fifteen-puzzle-game/service-worker.js",
-    "static/css/main.8fd75758.chunk.css.map": "/fifteen-puzzle-game/static/css/main.8fd75758.chunk.css.map"
+    "static/css/main.293e61ef.chunk.css.map": "/fifteen-puzzle-game/static/css/main.293e61ef.chunk.css.map",
+    "static/media/themeBear.gif": "/fifteen-puzzle-game/static/media/themeBear.2c8c58b6.gif",
+    "static/media/themeLion.jpg": "/fifteen-puzzle-game/static/media/themeLion.0c5e6eed.jpg",
+    "static/media/themeNight.jpg": "/fifteen-puzzle-game/static/media/themeNight.4105ef69.jpg",
+    "static/media/themeSummer.jpg": "/fifteen-puzzle-game/static/media/themeSummer.b66d4ee4.jpg",
+    "static/media/themeUnicorn.gif": "/fifteen-puzzle-game/static/media/themeUnicorn.172e4585.gif"
   }
 }
